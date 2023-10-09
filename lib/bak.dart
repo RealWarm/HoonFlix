@@ -119,23 +119,6 @@ class App extends StatelessWidget {
                 height: 20,
               ),
               /////////////////////////////////////////////////////////
-              Container(
-                child: const Row(
-                  children: [
-                    Column(
-                      children: [
-                        Text("Euro"),
-                        Row(
-                          children: [
-                            Text("6 428"),
-                            Text("EUR"),
-                          ],
-                        ),
-                      ],
-                    ),
-                  ],
-                ),
-              ),
             ],
           ),
         ),
